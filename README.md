@@ -87,5 +87,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * Developed by [Janith Suraweera](https://github.com/janithsuraweera)
 * Built with ❤️ using Python and open-source libraries
-
-```
