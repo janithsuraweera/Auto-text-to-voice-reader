@@ -2,6 +2,8 @@
 
 A simple and efficient Python application that reads aloud text from various sources using text-to-speech (TTS) technology. Ideal for accessibility, productivity, and multitasking.
 
+##Badges
+[![DeepScan grade](https://deepscan.io/api/teams/27925/projects/30249/branches/969941/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=27925&pid=30249&bid=969941)
 ## 🔊 Features
 
 - 📄 Read aloud plain text files
